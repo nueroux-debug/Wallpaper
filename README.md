@@ -1,2 +1,0 @@
-# Wallpaper
-A wallpaper Website
